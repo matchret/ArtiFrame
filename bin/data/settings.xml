@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Unlock_Interface>
+	<Background_Package>
+		<Background_RGB_Color>31, 31, 31, 255</Background_RGB_Color>
+	</Background_Package>
+	<Object_Package>
+		<Object_HSB_Color>
+			<Hue>64</Hue>
+			<Saturation>255</Saturation>
+			<Brightness>255</Brightness>
+		</Object_HSB_Color>
+		<Object_RGB_Color>126, 255, 0, 255</Object_RGB_Color>
+		<Outline_RGB_Color>0, 0, 0, 255</Outline_RGB_Color>
+	</Object_Package>
+	<Object_Tranformations>
+		<Scale>10</Scale>
+		<Height>100</Height>
+		<Width>150</Width>
+		<Apex>5</Apex>
+		<Object_Outline>0</Object_Outline>
+	</Object_Tranformations>
+</Unlock_Interface>
