@@ -1,6 +1,6 @@
 # ArtiFrame
 
-**ArtiFrame** is a real-time graphics application developed for IFT-3100. This project allows interactive manipulation of images and 3D models with a rich set of features including image import/export, vector drawing, scene transformation, camera control, texture mapping, and advanced illumination models.
+**ArtiFrame** is a real-time graphics application developed in C++ using openFrameworks. This project allows interactive manipulation of images and 3D models with a rich set of features including image import/export, vector drawing, scene transformation, camera control, texture mapping, and advanced illumination models.
 
 ## Table of Contents
 
